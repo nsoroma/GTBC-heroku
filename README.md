@@ -18,6 +18,9 @@
 
   ![](./public/assets/images/HW11%20Note%20Taker%20Screenshot.png)
 
+  Deployed solution: https://note-taker-gthw11.herokuapp.com/
+
+
 # License
   
     The application is covered under the following license:    
